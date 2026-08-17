@@ -49,8 +49,8 @@ Deep-Learning-and-Its-Applications-Lab/
 
 ## List of Practicals
 
-| No. | Experiment | Status |
-|:---:|------------|:------:|
+| No. | Experiment | 
+|:---:|------------|
 | 01 | Introduction to Deep Learning Frameworks | 
 | 02 | Housing Price Prediction using Deep Feed Forward Network | 
 | 03 | Classification using Deep Feed Forward Network | 
