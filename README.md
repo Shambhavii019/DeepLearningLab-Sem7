@@ -109,4 +109,4 @@ Through these practicals, I aim to:
 
 ---
 
-> **Note:** This repository has been created solely for academic purposes as part of the Deep Learning and Its Applications Laboratory course. The list of practicals follows the laboratory experiment schedule provided for the course. :contentReference[oaicite:0]{index=0}
+
